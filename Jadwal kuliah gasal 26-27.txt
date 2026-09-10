@@ -4,3 +4,5 @@ Senin - kosong
 Selasa - Etika Profesi (C) dan kewirausahaan (B)
 Rabu - Pengembangan Perangkat Lunak Agile (A) dan Manajemen Proyek (D)
 Kamis - Pemrograman Aplikasi Web (A)
+Jumat - Desain Interaksi (A) dan Arsitektur Perangkat Lunak (A)
+Total SKS 20
